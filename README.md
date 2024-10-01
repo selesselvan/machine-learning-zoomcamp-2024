@@ -19,7 +19,7 @@ This repository contains my learning notes, code, and homework solutions from th
 
 1. **Homework 1: Module 1 Exercises**
    - [Homework](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2024/01-intro/homework.md)
-   - [Homework 1 Code](link_to_homework1)
+   - [Homework 1 Code](https://github.com/selesselvan/machine-learning-zoomcamp-2024/tree/main/homework/homework1)
    
 
 
